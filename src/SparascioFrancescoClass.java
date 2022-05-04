@@ -36,7 +36,7 @@ public class SparascioFrancescoClass {
 		}
 		return r;
 	}
-
+	
 	/**
 	 * metodo che testa il corretto funzionamento della classe
 	 * 
